@@ -13,8 +13,6 @@
 
 ## Description
 
-This application was built for business owners to view and manage their departments for their company in order to use and organize their business in a friendly simple matter.
-
 ## User Story
 
 AS A social media startup
