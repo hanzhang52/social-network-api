@@ -13,6 +13,8 @@
 
 ## Description
 
+This backend application was built for connecting to a front end using NOSQL, and MongoDb database where useres can add or delete a friend off their friend list, and as well as view friends thoughts or reaction and are able to create or delete them as well.
+
 ## User Story
 
 AS A social media startup
@@ -33,7 +35,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## ScreenShot
 
-![Screenshot 1]
+![Screenshot 1](./assets/screenshot.png)
 
 ## Contributors
 
